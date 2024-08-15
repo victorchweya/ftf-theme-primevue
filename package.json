@@ -1,0 +1,31 @@
+{
+  "name": "ftf-ecommerce-v2",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.0.21",
+    "@fontsource-variable/rubik": "^5.0.22",
+    "@primevue/themes": "^4.0.4",
+    "@vee-validate/yup": "^4.13.2",
+    "pinia": "^2.1.7",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.0.4",
+    "vee-validate": "^4.13.2",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@primevue/auto-import-resolver": "^4.0.4",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.3.1"
+  }
+}
